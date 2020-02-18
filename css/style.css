@@ -1,0 +1,33 @@
+body{ 
+    font-family: sans-serif;  
+    color: white;
+    font-size: small;
+}
+.form{
+    background:grey;
+    border: 20px solid #1E1D1D ;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding: 40px 0px 60px 30px;
+}
+.log{
+    margin-left: 20%;
+}
+.password{
+    margin-left: 14.5%;
+}
+.conPw{
+    margin-left: 4.3%;
+}
+select{
+    width: 36.5%;
+    margin-left: 17.6%;
+}
+.emailAdd{
+    margin-left: 20%;
+}
+.b1{
+    padding: 10px 10px;
+}
+
